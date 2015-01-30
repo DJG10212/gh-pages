@@ -1,0 +1,10 @@
+
+File location in HTML format
+https://github.com/DJG10212/dws1/tree/ghs-pages/Gillette-Dakota-project3
+
+
+Regular page view in browser
+
+( I've been having some difficulties getting it set up, but by next week I should have it as "gh-pages"  instead of "ghs-pages" )
+
+http://htmlpreview.github.io/?https://github.com/DJG10212/dws1/blob/ghs-pages/Gillette-Dakota-project3/index.html

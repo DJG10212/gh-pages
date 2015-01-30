@@ -1,0 +1,207 @@
+
+
+	/* Body & background */
+
+
+body {
+    font-family: roboto, helvetica, sans-serif;
+    font-size: 0.875em;
+    color: #000000;
+    background: #225378 url("../images/background.jpg") repeat top right;
+}
+
+	/*  Main content */
+
+
+#container {
+	width:90%;
+	height:auto;
+	margin: 0% auto;	
+	border-radius: 10px;
+	background-color: #fff1ce;
+	padding: 2%;
+	box-shadow: 0px 0px 20px 0px #2e2e2e;
+	overflow:auto;
+}
+
+
+
+/* strong & emphasis etc. coloring */
+
+strong {
+	color: #e15c01;
+}
+
+em {
+	color: #e15c01;
+}
+
+q {
+	color: #e15c01;
+}
+
+
+
+
+	/* Lists */
+
+
+#unordered  li {
+	display: inline;
+	margin: 1%;
+	background-color: #225378;
+	padding: 1%;
+}	
+
+	/* Headings */
+  
+
+h2, h3, h4 {
+	color: #184c7e;
+}  
+
+h1 {
+	color: #16607d;
+	font-size: 2em;
+    margin-left: 3%;
+    padding: .3%;
+    font-style: oblique;
+    text-align: left;
+    letter-spacing: 0.5em;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5em;
+    border-bottom-color: rgba(255,168,76,0.50);
+
+}
+
+h2 {
+	margin-bottom: -1%;
+	padding-left:1%;	
+}
+
+h4 {
+		margin-left:45%;
+}
+
+
+.icon {
+	background: url("../images/icon2.png") no-repeat left;
+	padding-left: 3%;
+	height:100%;
+}
+
+
+	/* Paragraphs*/
+
+
+p {
+	line-height: 20px;
+}
+	
+	
+	
+	
+	/* Main Navigation */
+	
+ul {
+	width: 66%;
+	padding: 1.5%;
+	margin: 0% auto;
+	list-style-type: none;
+	text-align: center;	
+}
+
+	
+	/* Links */
+
+
+a:link {
+	color: #FFF;
+	text-decoration: none;
+	display: inline;
+}
+
+a:visited {	
+	color: #EB7F00;
+}
+
+a:hover {
+	color: #EB7F00;
+}
+
+a:active {
+ 	color: #ffc211;
+ }	
+ 
+ 
+ 
+ /* columns */
+ 
+ 
+#column1 {	
+	float:left;
+	width:62%;
+	margin-left:5%;
+}
+
+
+#column2 {	
+	float:right;
+	width:20%;
+	margin-left:5%;
+	margin-right:5%;
+}
+ 
+ /* right column */
+ 
+ .gradient {
+	border-radius: 10px;
+	margin: 0% auto;
+	height:15%;
+	background: linear-gradient(to bottom, rgba(255,168,76,0.50) 0%,#ff7b0d 100%);
+}
+
+
+
+
+/* footer */
+
+
+#footer {
+	clear: left;
+	border-top-style: solid;
+    border-top-width: 1em;
+    border-top-color: rgba(255,168,76,0.50);
+
+}
+ 
+ 
+ 
+ 
+ 
+ /* table */
+ 
+th, td {
+  padding: 7px 10px 10px 10px;}
+th {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 90%;
+  text-align: left;}
+tr {
+  background-color: #FF8927;}
+tr:hover {
+  background-color: #D2D2D2;}
+
+.tg-highlight{
+background-color:#FCFBE3}
+ 
+.tg-highlight:hover {
+  background-color: #D2D2D2;}
+ 
+ 
+ /* Form */
+ 
+
+ 
+ 
